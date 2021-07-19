@@ -1,0 +1,1 @@
+Projeto desenvolvido na semana Nlw n qual foram abordadas as seguintes tecnologias HTML CSS JavaScript  NodeJS EJSExpress
